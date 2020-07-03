@@ -13,3 +13,7 @@
 .withSeparator:last-child .row {
     border-bottom: 0px;
 }
+
+*, *::before, *::after {
+    margin-bottom:0!important;
+}
