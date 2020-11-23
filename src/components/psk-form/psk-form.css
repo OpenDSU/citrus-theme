@@ -19,3 +19,12 @@
 .product-leaflet .container .product-leaflet-version{
     width: 30% !important;
 }
+
+.language-leaflets-grid psk-for-each {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.language-leaflets-grid .container {
+    padding: 0;
+}
