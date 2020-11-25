@@ -10,3 +10,19 @@
     box-shadow: 0 4px 24px -15px rgba(0, 0, 0, 0.75);
     color: rgba(0, 0, 0, 1);
 }
+
+:host(.audit-header) {
+    padding: 0 10px;
+    border-radius: 5px;
+    margin: 0;
+    color: rgba(0, 0, 0, 0.75);
+}
+
+:host(.audit-line) {
+    padding: 0 10px;
+    border-radius: 5px;
+    margin-bottom: 3px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    color: rgba(0, 0, 0, 0.75);
+    font-size: 16px;
+}
