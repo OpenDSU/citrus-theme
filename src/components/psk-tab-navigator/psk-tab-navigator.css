@@ -3,7 +3,7 @@
 }
 
 :host(#import-logs-status) .tabs .tab-navigator psk-button.active button.btn{
-    background-color:#e9510e ;
+    background-color:#efa005 ;
 }
 
 :host(#import-logs-status[layout="horizontal"]) .tabs .tab-container{
