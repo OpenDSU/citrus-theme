@@ -1,11 +1,11 @@
-:host(#import-logs-status) .tabs .tab-navigator, :host:host(#import-logs-status) .tabs .tab-navigator .btn{
+:host(#orange-tab-navigator) .tabs .tab-navigator, :host:host(#orange-tab-navigator) .tabs .tab-navigator .btn{
     background-color: #f9b123;
 }
 
-:host(#import-logs-status) .tabs .tab-navigator psk-button.active button.btn{
+:host(#orange-tab-navigator) .tabs .tab-navigator psk-button.active button.btn{
     background-color:#efa005 ;
 }
 
-:host(#import-logs-status[layout="horizontal"]) .tabs .tab-container{
+:host(#orange-tab-navigator[layout="horizontal"]) .tabs .tab-container{
     border-top: none;
 }
